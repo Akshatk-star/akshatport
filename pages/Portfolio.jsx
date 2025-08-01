@@ -20,7 +20,7 @@ const projects = [
     type: "Frontend",
   },
   {
-    title: "Open Source Contributions",
+    title: "Others",
     devstack: "HTML,CSS,JS,GSAP,React",
     desc: "Actively contributed to multiple open-source projects and helped build event websites for college fests and hackathons.",
     git: "https://github.com/Akshatk-star",
